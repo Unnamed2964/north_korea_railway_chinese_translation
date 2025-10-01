@@ -6,4 +6,6 @@ This north_korea_railway_chinese_translation is made available under the Open Da
 
 The stations marked as 1 in the level field and filled with orange color in the released maps is the stations not marked as "일반역" in the following map.
 
+![철도-안내도2018](https://github.com/user-attachments/assets/22bfccb0-2197-4d0d-8c18-39ff80e086ab)
+
 There may be errors and no warranty is given for this dataset.
